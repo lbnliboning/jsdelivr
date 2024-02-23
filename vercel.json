@@ -18,7 +18,7 @@
     },
     {
       "src": "/avatar/(.*)",
-      "dest": "https://cn.gravatar.com/$1"
+      "dest": "https://cn.gravatar.com/avatar/$1"
     },
     {
       "src": "/cdnjs/(.*)",
