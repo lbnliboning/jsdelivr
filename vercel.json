@@ -27,6 +27,10 @@
     {
       "src": "/esm/(.*)",
       "dest": "https://esm.run/$1"
+    },
+    {
+      "src": "/find/(.*)",
+      "dest": "https://cdn.unix.bio/$1"
     }
   ]
 }
