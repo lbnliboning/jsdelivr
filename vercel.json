@@ -6,7 +6,7 @@
     },
     {
       "src": "/npm/(.*)",
-      "dest": "https://npmjs.com/$1"
+      "dest": "https://cdn.jsdelivr.net/npm/$1"
     },
     {
       "src": "/wp/(.*)",
